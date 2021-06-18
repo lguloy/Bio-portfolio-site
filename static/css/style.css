@@ -3,8 +3,19 @@
     bottom: 50%
 }
 
+.card-margins{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .row-header{
     height: 100px;
+    background-color: white;
+}
+
+.edu {
+    font-size: large;
+
 }
 h1 {
     font-size:xx-large;
@@ -19,4 +30,22 @@ h2 {
     font-size: 72px !important;
     
 
+}
+
+#abtme{
+    background-color: rgb(206, 206, 206);
+    padding: 100px !important;
+    ;
+}
+
+#abtmetxt{
+    font-size: x-large;
+    font-weight:500 !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+#certbox{
+    padding: 50px;
+    background-color: rgb(206, 206, 206);
 }
